@@ -1,6 +1,7 @@
 h1{
     color:#429bb8;
     text-align:center;
+    font-family: 'Mochiy Pop P One', sans-serif;
 }
 
 body{
@@ -11,4 +12,15 @@ img{
     width:25%;
     text-align:center;
     border:5px solid #E6E6FA;
+}
+
+h2{
+    color:#429bb8;
+    text-align:center;
+    font-family: 'Inconsolata', monospace;
+}
+
+p{
+    color:black;
+    text-align:center;
 }
